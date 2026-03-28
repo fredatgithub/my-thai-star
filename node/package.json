@@ -36,7 +36,7 @@
     "bcrypt": "^5.0.1",
     "class-transformer": "^0.2.3",
     "class-validator": "^0.14.0",
-    "handlebars": "^4.7.7",
+    "handlebars": "^4.7.9",
     "helmet": "^4.6.0",
     "lodash": "^4.17.21",
     "md5": "^2.3.0",
